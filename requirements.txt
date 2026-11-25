@@ -1,17 +1,2 @@
 mediapipe
 opencv-python
-
-## Usage
-
-1. Make sure your webcam is connected.
-2. Run the script:
-
-    ```
-    python main.py
-    ```
-
-3. Press `q` to quit.
-
-## License
-
-MIT
